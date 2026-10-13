@@ -58,8 +58,7 @@ Note: These observations reflect the values displayed in the dashboard and may c
 
 This dashboard provides a consolidated view of sales and operational performance. It helps stakeholders identify leading product categories, monitor regional return patterns, compare payment preferences, and evaluate shipping performance to support data-driven business decisions.
 
+-----------
+Aishee Saha
 
-**Aishee Saha**
-
-Aspiring Data Analyst | Power BI | SQL | Excel | Python
 
