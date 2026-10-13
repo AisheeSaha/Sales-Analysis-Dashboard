@@ -7,6 +7,8 @@ Developed an interactive Power BI dashboard to analyze sales performance, order 
 
 
 ![image Alt](https://github.com/AisheeSaha/Sales-Analysis-Dashboard/blob/main/Screenshot%202026-09-07%20144821.png?raw=true)
+
+
 ## 🎯 Business Objectives
 
 - Monitor overall sales, order volume, profit, and return rate.
