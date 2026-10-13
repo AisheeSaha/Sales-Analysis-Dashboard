@@ -6,7 +6,7 @@
 Developed an interactive Power BI dashboard to analyze sales performance, order trends, profitability, product categories, and customer behavior. The dashboard transforms sales data into actionable business insights through KPI tracking and dynamic visualizations, enabling users to explore performance across product categories, warehouse regions, payment methods, shipping methods, brands, and order statuses.
 
 
-![image Alt]()
+![image Alt](https://github.com/AisheeSaha/Sales-Analysis-Dashboard/blob/main/Screenshot%202026-09-07%20144821.png?raw=true)
 ## 🎯 Business Objectives
 
 - Monitor overall sales, order volume, profit, and return rate.
